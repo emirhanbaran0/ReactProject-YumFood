@@ -33,18 +33,14 @@ The site's demo video and site images are at the bottom of this file.
 
 ***
 ## View Of Site
-![w1](https://raw.githubusercontent.com/emirhanbaran0/IDDEF/main/images/sitedenornekler/anasayfa.png)
+![w1](https://github.com/emirhanbaran0/ReactProject-YumFood/blob/master/imgs/photo1.png)
 ***
-![w2](https://raw.githubusercontent.com/emirhanbaran0/IDDEF/main/images/sitedenornekler/aboutUs.png)
+![w2](https://github.com/emirhanbaran0/ReactProject-YumFood/blob/master/imgs/photo2.png)
 ***
-![w3](https://raw.githubusercontent.com/emirhanbaran0/IDDEF/main/images/sitedenornekler/iletisim.png)
+![w3](https://github.com/emirhanbaran0/ReactProject-YumFood/blob/master/imgs/photo3.png)
 ***
-![w4](https://raw.githubusercontent.com/emirhanbaran0/IDDEF/main/images/sitedenornekler/ornek.png)
-***
-![w5](https://raw.githubusercontent.com/emirhanbaran0/IDDEF/main/images/sitedenornekler/bagislarim.png)
 
-![w6](https://raw.githubusercontent.com/emirhanbaran0/IDDEF/main/images/sitedenornekler/hesapbilgilerim.png)
 
 
 ## WEBSİTE YOUTUBE VİDEO
-[YUMFOOD VİDEO](https://youtu.be/LCT1f_yoZh4)
+[YUMFOOD VİDEO](https://www.youtube.com/watch?v=BVQjx9h5liw&ab_channel=EmirhanBaran)
